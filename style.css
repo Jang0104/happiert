@@ -18,7 +18,7 @@
 }
 
 .bg_area {
-    background: url(../img/main_section_bg.png);
+    background: url(./img/a28fe238a9d2aef23923b6b4faa6c4f7.png);
     background-repeat: no-repeat;
     height: 100vh;
     position: absolute;
@@ -293,7 +293,7 @@ header.hide {
     align-items: center;
 }
 
-.diet_section>p {
+.diet_section > p {
     text-align: center;
     color: #fff;
     margin-bottom: 80px;
@@ -301,7 +301,7 @@ header.hide {
     line-height: 32px;
 }
 
-.diet_section>h2 {
+.diet_section > h2 {
     font-size: 60px;
     color: #fff;
     font-weight: 600;
