@@ -7,3 +7,11 @@ window.addEventListener("scroll",(e)=>{
     if(posY < window.scrollY)
         
 });
+
+function headerHide({
+    header.classList.add("hide");
+})
+
+function headerHide({
+    header.classList.remove("hide");
+})
